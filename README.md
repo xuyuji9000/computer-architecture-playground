@@ -5,3 +5,5 @@ This repo is used to document computer architecture related learning and questio
 - [pipeline](./pipeline.md)
 
     > Learn about cpu pipeline 
+
+- [assembly-language](./assembly-language/Readme.md)
