@@ -1,5 +1,13 @@
 This file is used to understand the process of compiling from high level langauge like C to low level language like assembly or machine code.
 
+Requirement:
+
+- OS: Centos 8
+
+    `docker run -it centos:8`
+
+Content:
+
 - [clang](./clang/Readme.md)
 
 - an architecture digram
