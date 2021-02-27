@@ -8,3 +8,6 @@ This file is used to understand the process of compiling from high level langaug
 
     > This is a lecture from course "MIT 6.172 Performance Engineering of Software Systems, Fall 2018"
 
+2. [Intermediate Representations](https://cs.lmu.edu/~ray/notes/ir/)
+
+    > This give an explanation of what IR is.
