@@ -2,6 +2,10 @@ This file is used to understand the process of compiling from high level langaug
 
 - [clang](./clang/Readme.md)
 
+- an architecture digram
+
+    ![architecture digram](./architecture.png)
+
 # Reference
 
 1. [5. C to Assembly](https://www.youtube.com/watch?v=wt7a5BOztuM)
