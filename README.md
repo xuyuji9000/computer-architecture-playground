@@ -11,6 +11,6 @@ This repo is used to document computer architecture related learning.
 - [compiler](./compiler/Readme.md)
 
 
-- [CrashCourse  / Computer Science](https://www.youtube.com/watch?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [CrashCourse  / Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
     > Intuitive computer science video content 
