@@ -28,4 +28,4 @@ Content:
 
 3. [Compiling, assembling, and linking](https://www.youtube.com/watch?v=N2y6csonII4)
 
-    > This video touches upon how linker works.
+    > This video explains how compiler, assembler and linker work together with a simpler example.
