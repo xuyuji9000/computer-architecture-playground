@@ -25,3 +25,7 @@ Content:
 2. [Intermediate Representations](https://cs.lmu.edu/~ray/notes/ir/)
 
     > This give an explanation of what IR is.
+
+3. [Compiling, assembling, and linking](https://www.youtube.com/watch?v=N2y6csonII4)
+
+    > This video touches upon how linker works.
