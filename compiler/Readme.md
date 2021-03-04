@@ -12,9 +12,9 @@ This file is used to understand the process of compiling from high level langaug
 
 - [llvm](./llvm/Readme.md)
 
-- an architecture digram
+- a picture demonstrates compiling, assembling and linking relationship
 
-    ![architecture digram](./architecture.png)
+    ![compiling assembling linking](./compiling-assembling-linking.png)
 
 # Reference
 
