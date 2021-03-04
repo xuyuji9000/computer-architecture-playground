@@ -6,7 +6,7 @@ This repo is used to document computer architecture related learning.
 
     > Learn about cpu pipeline 
 
-- [llvm](./llvm/Readme.md)
+- [compiler](./compiler/Readme.md)
 
 - [assembly-language](./assembly-language/Readme.md)
 
