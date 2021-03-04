@@ -8,7 +8,9 @@ This repo is used to document computer architecture related learning.
 
 - [assembly-language](./assembly-language/Readme.md)
 
-- [compiler](./compiler/Readme.md)
+- [compiling-assembling-linking](./compiling-assembling-linking/Readme.md)
+
+    > This demonstrate the process of compiling-assembling-linking with a simple example.
 
 
 - [CrashCourse  / Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
