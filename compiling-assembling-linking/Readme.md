@@ -8,10 +8,6 @@ This file is used to understand the process of compiling from high level langaug
 
 # Content
 
-- [clang](./clang/Readme.md)
-
-- [llvm](./llvm/Readme.md)
-
 - a picture demonstrates compiling, assembling and linking relationship
 
     ![compiling assembling linking](./compiling-assembling-linking.png)

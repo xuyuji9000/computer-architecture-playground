@@ -4,6 +4,7 @@ This document is used to learn llvm assembly.
 
 - Compile: `llc main.ll`
 
+- [clang](./clang/Readme.md)
 
 # Reference
 
