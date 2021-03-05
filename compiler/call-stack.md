@@ -6,4 +6,7 @@
 
 1. [The Call Stack](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
 
-    > This provides an intuitive explanation of how call stack works.
+    > This provides an intuitive video explanation of how call stack works.
+2. [Breaking Down the Call Stack](https://medium.com/@ryanfarney/breaking-down-the-call-stack-e68b5633fbad)
+
+    > Detailed explanation of call stack in text
