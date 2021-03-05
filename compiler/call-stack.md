@@ -14,3 +14,8 @@
 3. [Programming: What are calling conventions?](https://www.youtube.com/watch?v=JHGTXM3oIs0)
 
     > Video about calling conventions
+
+
+4. [The 64 bit x86 C Calling Convention](https://aaronbloomfield.github.io/pdr/book/x86-64bit-ccc-chapter.pdf)
+
+    > A detailed text description of calling conventions.
