@@ -10,3 +10,7 @@
 2. [Breaking Down the Call Stack](https://medium.com/@ryanfarney/breaking-down-the-call-stack-e68b5633fbad)
 
     > Detailed explanation of call stack in text
+
+3. [Programming: What are calling conventions?](https://www.youtube.com/watch?v=JHGTXM3oIs0)
+
+    > Video about calling conventions
