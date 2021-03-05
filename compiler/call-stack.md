@@ -1,10 +1,6 @@
-- cpu program counter 
+- Relevant concepts: cpu program counter, calling convention, stack frame
 
-- calling convention
-
-- stack frame
-
-> Expose these few contents to assist thinking
+- How to manipulate stack in x86 assembly?
 
 # Reference
 
