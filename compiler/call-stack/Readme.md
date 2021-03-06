@@ -1,3 +1,8 @@
+![call-stack-implementation-dependencies](./call-stack-implementation-dependencies.png)
+
+> call stack implementation dependencies
+
+
 - Relevant concepts: cpu program counter, calling convention, stack frame
 
 - How to manipulate stack in x86 assembly?
