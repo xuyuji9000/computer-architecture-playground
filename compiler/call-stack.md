@@ -19,3 +19,7 @@
 4. [The 64 bit x86 C Calling Convention](https://aaronbloomfield.github.io/pdr/book/x86-64bit-ccc-chapter.pdf)
 
     > A detailed text description of calling conventions.
+
+5. [Call stack](https://en.wikipedia.org/wiki/Call_stack)
+
+    > Structured description of call stack on wikipedia
