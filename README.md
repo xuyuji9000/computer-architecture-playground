@@ -14,6 +14,10 @@ This repo is used to document computer architecture related learning.
 
     > This demonstrate the process of compiling-assembling-linking with a simple example.
 
+- compiler-OS-ISA relationship
+
+    ![compiler-OS-ISA-relationship](./compiler-OS-ISA-relationship.png)
+
 
 - [CrashCourse  / Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
