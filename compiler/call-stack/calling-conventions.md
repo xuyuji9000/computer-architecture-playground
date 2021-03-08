@@ -10,7 +10,7 @@ This file documents the learning of calling conventions.
 
 2. [The 64 bit x86 C Calling Convention](https://aaronbloomfield.github.io/pdr/book/x86-64bit-ccc-chapter.pdf)
 
-    > A detailed text description of calling conventions.
+    > Describe caller and callee rules and provide an example to demonstrate.
 
     > Find the reading note on google drive
 
