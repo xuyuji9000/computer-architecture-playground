@@ -19,3 +19,5 @@ This file documents the learning of calling conventions.
     > This is a systematic documentation about calling conventions.
 
     > It can be a little bit too into the details, need high level models before get into details.
+
+    > Find the reading note on google drive
