@@ -12,11 +12,11 @@ This file documents the learning of calling conventions.
 
     > A detailed text description of calling conventions.
 
+    > Find the reading note on google drive
+
 3. [5.Calling conventions for different C++ compilers and operating systems](https://agner.org/optimize/calling_conventions.pdf)
 
-    > This blog is amazing and the author is amazing!
-
-    > This is a systematic documentation about calling conventions.
+    > This is a systematic documentation about calling conventions compatibility across compilers and OSes.
 
     > It can be a little bit too into the details, need high level models before get into details.
 
