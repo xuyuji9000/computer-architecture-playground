@@ -17,3 +17,5 @@ This file documents the learning of calling conventions.
     > This blog is amazing and the author is amazing!
 
     > This is a systematic documentation about calling conventions.
+
+    > It can be a little bit too into the details, need high level models before get into details.
